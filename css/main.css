@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.fluid img{
+    max-width: 100%;
+}
+a:hover{
+    text-decoration: none;
+    color: thistle;
+}
+
+.section-slider .carousel-inner img{
+    max-height: 95vh;
+    object-fit: cover;
+}
+
+.fluid .btn{
+    background-color: greenyellow;
+}
+
+footer{
+    background-color: #17A2B8;
+}
